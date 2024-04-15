@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Lucknow AI
+title: Lucknow AI Labs
 description: Open-source AI Research & Mentorship
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lucknowai.org/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -22,32 +22,32 @@ repository: LucknowAI/lucknowai.github.io # for github-metadata
 permalink: pretty
 
 exclude:
- # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
-   - .sass-cache/
-   - .jekyll-cache/
-   - gemfiles/
-   - Gemfile
-   - Gemfile.lock
-   - node_modules/
-   - vendor/bundle/
-   - vendor/cache/
-   - vendor/gems/
-   - vendor/ruby/
- # specific to the theme website:
-   - bin/
-   - lib/
-   - "*.gemspec"
-   - "*.gem"
-   - LICENSE.txt
-   - package.json
-   - package-lock.json
-   - Rakefile
-   - README.md
-   - CODE_OF_CONDUCT.md
-   - docker-compose.yml
-   - Dockerfile
- # theme test code
-   - fixtures/
+  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  # specific to the theme website:
+  - bin/
+  - lib/
+  - "*.gemspec"
+  - "*.gem"
+  - LICENSE.txt
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README.md
+  - CODE_OF_CONDUCT.md
+  - docker-compose.yml
+  - Dockerfile
+  # theme test code
+  - fixtures/
 
 # Set a path/url to a logo that will be displayed instead of the title
 # logo: "/assets/images/nural-panel2.png"
@@ -103,6 +103,7 @@ heading_anchors: true
 aux_links:
   "Lucknow AI on GitHub":
     - "https://github.com/LucknowAI/lucknowai.github.io"
+ 
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -120,7 +121,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2017-2020 Lucknow AI. Distributed by an <a href=\"https://github.com/LucknowAI/tree/main/LICENSE.txt\">MIT license.</a> <a href=\"https://www.netlify.com/\">This site is powered by Netlify.</a>"
+footer_content: "Copyright &copy; 2017-2020 Lucknow AI Labs. Distributed by an <a href=\"https://github.com/LucknowAI/tree/main/LICENSE.txt\">MIT license.</a> <a href=\"https://www.netlify.com/\">This site is powered by Netlify.</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
@@ -144,7 +145,7 @@ callouts:
   highlight:
     color: yellow
   important:
-    title: 
+    title:
     color: purple
   new:
     title: New
@@ -176,7 +177,7 @@ compress_html:
   clippings: all
   comments: all
   endings: all
-  startings: []
+  startings: [ ]
   blanklines: false
   profile: false
   # ignore:

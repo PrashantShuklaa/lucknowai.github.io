@@ -22,15 +22,13 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 
-# Lucknow AI Labs
-
-{: .fs-9 }
+<h1><b>Lucknow AI Labs</b></h1>{: .fs-9 }
 
 Open Source AI Research & Mentorship
 {: .fs-6 .fw-300 }
 
 [Get started now](https://github.com/LucknowAI){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0
-.mr-2 } [Visit Lallan](/Projects/lallan){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+.mr-2 } [Visit Lucknow GPT](/Projects/lallan){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
 <div style="text-align: left;">
@@ -41,7 +39,7 @@ Open Source AI Research & Mentorship
         <a href="https://discord.gg/QKw67PDZUm" title="Discord" style="text-decoration: none;">
             <img src="/assets/icons/discord.png" alt="Discord" width="30" height="30"/>
         </a>
-        <a href="YOUR_FACEBOOK_PROFILE_URL" title="Facebook" style="text-decoration: none;">
+        <a href="https://www.instagram.com/lucknow_ai/" title="Facebook" style="text-decoration: none;">
             <img src="/assets/icons/facebook.png" alt="Facebook" width="30" height="30"/>
         </a>
         <a href="https://www.instagram.com/lucknow_ai/" title="Instagram" style="text-decoration: none;">
@@ -71,10 +69,11 @@ Open Source AI Research & Mentorship
 
 <div style="text-align: center; margin-bottom: -30px;">
     <img src="/assets/images/collaborators.png" alt="Lucknow AI Community" width="300" height="300" title="Lucknow AI Community"/>
-</div>
 
-<div style="text-align: center; margin-top: -10px;">
-    <img src="/assets/images/tf.png" alt="Lucknow AI Community" width="200" height="200" title="Lucknow AI Community"/>
+    <div style="text-align: center; margin-top: -10px;">
+        <img src="/assets/images/tf.png" alt="TFUG Lucknow" width="200" height="200" title="TFUG Lucknow"/>
+    </div>
+
 </div>
 
 
