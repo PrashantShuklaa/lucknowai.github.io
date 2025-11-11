@@ -40,13 +40,10 @@ Open Source AI Research & Mentorship
         <a href="https://discord.gg/QKw67PDZUm" title="Discord" style="text-decoration: none;">
             <img src="/assets/icons/discord.png" alt="Discord" width="30" height="30"/>
         </a>
-        <a href="YOUR_FACEBOOK_PROFILE_URL" title="Facebook" style="text-decoration: none;">
-            <img src="/assets/icons/facebook.png" alt="Facebook" width="30" height="30"/>
-        </a>
         <a href="https://www.instagram.com/lucknow_ai/" title="Instagram" style="text-decoration: none;">
             <img src="/assets/icons/insta.png" alt="Instagram" width="30" height="30"/>
         </a>
-        <a href="https://chat.whatsapp.com/DeJLSBFxejJ5r07ezpuyDx" title="WhatsApp" style="text-decoration: none;">
+        <a href="https://chat.whatsapp.com/BzyKWcRnTJP7qUtDW3vn6X" title="WhatsApp" style="text-decoration: none;">
             <img src="/assets/icons/whatsapp.png" alt="whatsapp" width="30" height="30"/>
         </a>
     </div>
