@@ -27,8 +27,13 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 Open Source AI Research & Mentorship
 {: .fs-6 .fw-300 }
 
+<<<<<<< HEAD
 [Get started now](https://github.com/LucknowAI){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0
 .mr-2 } [Visit Lucknow GPT](/Projects/lallan){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+=======
+[Github](https://github.com/LucknowAI){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0
+.mr-2 }[Try Lucknow-GPT](https://lallanrag.vercel.app/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+>>>>>>> 3e727699525212ea88b4068c70efa31aef0eda53
 
 
 <div style="text-align: left;">
@@ -39,13 +44,16 @@ Open Source AI Research & Mentorship
         <a href="https://discord.gg/QKw67PDZUm" title="Discord" style="text-decoration: none;">
             <img src="/assets/icons/discord.png" alt="Discord" width="30" height="30"/>
         </a>
+<<<<<<< HEAD
         <a href="https://www.instagram.com/lucknow_ai/" title="Facebook" style="text-decoration: none;">
             <img src="/assets/icons/facebook.png" alt="Facebook" width="30" height="30"/>
         </a>
+=======
+>>>>>>> 3e727699525212ea88b4068c70efa31aef0eda53
         <a href="https://www.instagram.com/lucknow_ai/" title="Instagram" style="text-decoration: none;">
             <img src="/assets/icons/insta.png" alt="Instagram" width="30" height="30"/>
         </a>
-        <a href="https://chat.whatsapp.com/DeJLSBFxejJ5r07ezpuyDx" title="WhatsApp" style="text-decoration: none;">
+        <a href="https://chat.whatsapp.com/BzyKWcRnTJP7qUtDW3vn6X" title="WhatsApp" style="text-decoration: none;">
             <img src="/assets/icons/whatsapp.png" alt="whatsapp" width="30" height="30"/>
         </a>
     </div>
